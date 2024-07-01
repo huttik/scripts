@@ -1,15 +1,14 @@
 // ==UserScript==
 // @name         MemeFI web
-// @version      1.0
+// @version      1.1
 // @description  Running TapSwap in a browser
-// @author       mudachyo
+// @author       huttik
 // @match        https://tg-app.memefi.club/*
 // @grant        none
 // @icon         https://s2.coinmarketcap.com/static/img/coins/64x64/29373.png
-// @downloadURL  https://github.com/mudachyo/MemeFi-Coin/raw/main/memefi-web.user.js
-// @updateURL    https://github.com/mudachyo/MemeFi-Coin/raw/main/memefi-web.user.js
-// @homepage     https://github.com/mudachyo/MemeFi-Coin
-// ==/UserScript==
+// @downloadURL  https://github.com/huttik/scripts/blob/main/MemeFi/memefi-web.user.js
+// @updateURL    https://github.com/huttik/scripts/blob/main/MemeFi/memefi-web.user.js
+// @homepage     https://github.com/huttik/scripts/blob/main/MemeFi
 
 (function() {
     'use strict';
