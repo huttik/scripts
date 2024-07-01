@@ -2,14 +2,13 @@
 // @name         Blum Autoclicker
 // @version      1.1
 // @namespace    Violentmonkey Scripts
-// @author       mudachyo
+// @author       huttik
 // @match        https://telegram.blum.codes/*
 // @grant        none
 // @icon         https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65ba99c1616e21b24009b86c_blum-256.png
-// @downloadURL  https://github.com/mudachyo/Blum/raw/main/blum-autoclicker.user.js
-// @updateURL    https://github.com/mudachyo/Blum/raw/main/blum-autoclicker.user.js
-// @homepage     https://github.com/mudachyo/Blum
-// ==/UserScript==
+// @downloadURL  https://github.com/huttik/scripts/edit/main/Blum/blum-autoclicker.user.js
+// @updateURL    https://github.com/huttik/scripts/edit/main/Blum/blum-autoclicker.user.js
+// @homepage     https://github.com/huttik/scripts/edit/main/Blum
 
 let GAME_SETTINGS = {
     minBombHits: Math.floor(Math.random() * 2),
