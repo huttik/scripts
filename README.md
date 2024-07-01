@@ -1,1 +1,1 @@
-edd# scripts
+# scripts
