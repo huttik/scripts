@@ -9,6 +9,7 @@
 // @downloadURL  https://github.com/huttik/scripts/edit/main/Blum/blum-autoclicker.user.js
 // @updateURL    https://github.com/huttik/scripts/edit/main/Blum/blum-autoclicker.user.js
 // @homepage     https://github.com/huttik/scripts/edit/main/Blum
+// ==/UserScript==
 
 let GAME_SETTINGS = {
     minBombHits: Math.floor(Math.random() * 2),
