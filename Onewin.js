@@ -4,8 +4,10 @@
 // @match       https://web.telegram.org/k/*
 // @match       https://web.telegram.org/a/*
 // @grant       none
+// @downloadURL https://github.com/huttik/scripts/raw/main/Onewin.js
+// @updateURL   https://github.com/huttik/scripts/raw/main/Onewin.js
+// @homepage    https://github.com/huttik/scripts/raw
 // ==/UserScript==
-
 (function() {
   'use strict';
 
